@@ -1,5 +1,5 @@
 # Memphis game development portfolio
-Frist year at the game development happy to be here
+First year at the game development happy to be here
 
 ## Term 1 projects
 
