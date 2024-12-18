@@ -1,5 +1,7 @@
 # Memphis game development portfolio
 First year at the game development happy to be here
+H1 
+school email: 9730696@graniteschools.org
 
 ## Term 1 projects
 [shape_game.zip](https://github.com/user-attachments/files/18184177/shape_game.zip)
