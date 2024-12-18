@@ -1,5 +1,5 @@
 # Memphis game development portfolio
-H1 
+
 school email: 9730696@graniteschools.org
 
 ## Term 1 projects
